@@ -11,20 +11,11 @@ import tensorflow as tf
 import random
 
 board = Board()
-
 #tf.reset_default_graph()
 
-#player1 = RandomPlayer()
-#player1 = RndMinMaxAgent()
-player1 = TQPlayer()
-#player1 = NNQPlayer("QLearner"+str(random.randint(1,100000)))
-#player1 = NNQPlayer("QLearner1")
+player1 = RandomPlayer()
 
-#player2 = RandomPlayer()
-player2 = MinMaxAgent()
-#player2 = RndMinMaxAgent()
-#player2 = TQPlayer()
-#player2 = NNQPlayer("QLearner209"+str(random.randint(1,100000)))
+player2 = RandomPlayer()
 
 p1_wins = []
 p1count = 0
