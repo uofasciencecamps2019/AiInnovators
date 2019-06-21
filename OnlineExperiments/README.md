@@ -1,7 +1,7 @@
 # Online AI Experiments
 This is a collection of online websites that demonstrate a use of artificial intelligence.
 
-[Keyboard Shortcuts Cheatsheet](https://blog.tinkercad.com/keyboard-shortcuts/)
+________________________________________________________________________________________________________________________
 
 # [AI Experiments](https://experiments.withgoogle.com/collection/ai)
 AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, 
@@ -27,6 +27,6 @@ Draw numbers and have them guessed by a image recognition AI.
 Play rock, paper, scissors against a skilled ai opponent that has played thousands of games.
 
 
-
+_______________________________________________________________________________________________________________________
 
 All rights to these websites belong to their respective owners.
